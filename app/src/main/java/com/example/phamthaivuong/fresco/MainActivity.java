@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
+        //comment
 
         Uri uri = Uri.parse("https://tinthuongnhat.net/wp-content/uploads/2018/09/hinh2-20170906085641.jpg");
         SimpleDraweeView draweeView = (SimpleDraweeView) findViewById(R.id.my_iamge);
